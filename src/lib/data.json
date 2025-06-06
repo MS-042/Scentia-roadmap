@@ -1,0 +1,84 @@
+{
+  "August 2018": {
+    "entries": 3,
+    "days": [
+      {
+        "date": "2018-08-21",
+        "label": "Tuesday",
+        "cards": [
+          {
+            "icon": "asterisk",
+            "iconColor": "success",
+            "title": "Job Created",
+            "fields": {
+              "Loss Type": "A/C Leak",
+              "Loss Territory": "Texas",
+              "Start Date": "08/22/2018"
+            },
+            "by": "Tyler",
+            "cta": true
+          },
+          {
+            "icon": "pencil",
+            "iconColor": "info",
+            "title": "Job Edited",
+            "fields": {
+              "Project Manager": "Marlyn",
+              "Supervisor": "Carol"
+            },
+            "by": "Tyler",
+            "cta": true
+          }
+        ]
+      },
+      {
+        "date": "2018-08-22",
+        "label": "Wednesday",
+        "cards": [
+          {
+            "icon": "pencil",
+            "iconColor": "info",
+            "title": "Job Edited",
+            "fields": {
+              "Extraction Type": "Carpet Heavy",
+              "Water Category": "4",
+              "No. Of Tech": "6",
+              "Est. Completion": "09/01/2018"
+            },
+            "by": "Carol",
+            "cta": true
+          },
+          {
+            "icon": "building-o",
+            "iconColor": "default",
+            "title": "Room Created",
+            "fields": {
+              "Name": "Kitchen",
+              "Floor Level": "2",
+              "Dimensions": "26 x 11 x 8"
+            },
+            "by": "Sam",
+            "cta": false
+          }
+        ]
+      },
+      {
+        "date": "2018-08-23",
+        "label": "Thursday",
+        "cards": [
+          {
+            "icon": "check",
+            "iconColor": "success",
+            "title": "Job Completed",
+            "fields": {
+              "Completion Date": "08/23/2018",
+              "Total Cost": "$1,200.00"
+            },
+            "by": "Marlyn",
+            "cta": true
+          }
+        ]
+      }
+    ]
+  }
+}
